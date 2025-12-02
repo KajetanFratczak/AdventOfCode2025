@@ -7,7 +7,7 @@
 # We need to calculate number of times we land on 0 
 
 # Reading the file 
-file = open("input.txt", "r")
+file = open("day1/input.txt", "r")
 sequence = file.read().splitlines()
 # The splitlines() method splits a string into a list. The splitting is done at line breaks.
 # print(sequence)
