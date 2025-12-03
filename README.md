@@ -2,7 +2,7 @@ Advent of Code 2025
 all tasks done in python
 - day 1 (task 1 and 2 done)
 - day 2 (task 1 and 2 done)
-- day 3 (in progress)
+- day 3 (task 1 and 2 done)
 - day 4 (in progress)
 - day 5 (in progress)
 - day 6 (in progress)
