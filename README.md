@@ -6,7 +6,7 @@ all tasks done in python
 - day 4 (task 1 done)
 - day 5 (task 1 done)
 - day 6 (task 1 done)
-- day 7 (in progress)
+- day 7 (task 1 done)
 - day 8 (in progress)
 - day 9 (in progress)
 - day 10 (in progress)
